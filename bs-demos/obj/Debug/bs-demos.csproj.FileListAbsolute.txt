@@ -1,0 +1,6 @@
+D:\dev\bs-demos\bs-demos\bin\bs-demos.dll.config
+D:\dev\bs-demos\bs-demos\bin\bs-demos.dll
+D:\dev\bs-demos\bs-demos\bin\bs-demos.pdb
+D:\dev\bs-demos\bs-demos\obj\Debug\bs-demos.csprojResolveAssemblyReference.cache
+D:\dev\bs-demos\bs-demos\obj\Debug\bs-demos.dll
+D:\dev\bs-demos\bs-demos\obj\Debug\bs-demos.pdb
