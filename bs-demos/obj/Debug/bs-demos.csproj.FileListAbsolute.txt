@@ -4,3 +4,9 @@ D:\dev\bs-demos\bs-demos\bin\bs-demos.pdb
 D:\dev\bs-demos\bs-demos\obj\Debug\bs-demos.csprojResolveAssemblyReference.cache
 D:\dev\bs-demos\bs-demos\obj\Debug\bs-demos.dll
 D:\dev\bs-demos\bs-demos\obj\Debug\bs-demos.pdb
+C:\dev\bs-demos\bs-demos\bin\bs-demos.dll.config
+C:\dev\bs-demos\bs-demos\bin\bs-demos.dll
+C:\dev\bs-demos\bs-demos\bin\bs-demos.pdb
+C:\dev\bs-demos\bs-demos\obj\Debug\bs-demos.csprojResolveAssemblyReference.cache
+C:\dev\bs-demos\bs-demos\obj\Debug\bs-demos.dll
+C:\dev\bs-demos\bs-demos\obj\Debug\bs-demos.pdb
